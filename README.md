@@ -7,5 +7,13 @@
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jessica-Morcos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Morcos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+# Get in touch!
+ <a href="www.linkedin.com/in/jessica-morcos">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="mailto:jessica.morcos7@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
